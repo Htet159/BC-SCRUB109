@@ -2,6 +2,7 @@ h1 {
   font-family: 'Processblack'; 
   font-weight: bold; 
   font-style: normal; 
+  text-align: center;
 }
 body {
   font-size: 80%;
@@ -41,3 +42,6 @@ a {
 a:hover, a.on {
   color: #cc3333;
   background-color: #ffffff;}
+#yee {
+  text-align: center;
+}
